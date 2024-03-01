@@ -1,4 +1,4 @@
-# L04E03: Debug decorator
+# L02E02: Debug decorator
 Vytvořte modul `debug.py` obsahující `@debug` dekorátor, který při zavolání obalené funkce vypíše na standardní výstup seznam argumentů (`args`), seznam pojmenovaných argumentů (`kwargs`), název funkce a výsledek v následujícím formátu. Zbytek funkce a její návratová hodnota funguje stejně.
 
 Pro získání hodnoty argumentu a výsledku použijte funkci `repr()`.
